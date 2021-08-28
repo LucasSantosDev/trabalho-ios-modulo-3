@@ -4,4 +4,4 @@ Aluno: Lucas da Silva Santos
 
 Curso: Pós-Graduação Lato Sensu em Desenvolvimento Mobile
 
-Sala: --
+Sala: Desenvolvimento Nativo para iOS
